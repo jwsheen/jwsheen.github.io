@@ -1,6 +1,7 @@
 ---
 title: "HR ERP 시연 시나리오"
 # classes: wide
+layout: single
 excerpt: "소통하며 협업하게 하여 업무 생산성을 높여주는 HR erp 시연 시나리오"
 header:
   overlay_image: /assets/images/오르막길.png
