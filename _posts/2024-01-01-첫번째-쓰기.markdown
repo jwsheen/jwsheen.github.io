@@ -1,5 +1,5 @@
 ---
-title: "첫번째 쓰기"
+title: "매일 쓰기"
 classes: wide
 excerpt: "A page with `classes: wide` set to expand the main content's width."
 tags: 
@@ -13,6 +13,12 @@ tags:
 #   - title: Another sidebar nav
 #     nav: sidebar-sample
 ---
+
+내가 익숙한 markdown으로 쓰고 피드백을 받아 익히기
+
+# 본대로 느낀대로
+> 사랑하고 느끼고
+
 
 When using `layout: single` add the following front matter to a page or post to widen the main content:
 
