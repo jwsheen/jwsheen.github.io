@@ -1,12 +1,20 @@
 ---
-title: "HR erp 시연"
+title: "HR ERP 시연 시나리오"
 # classes: wide
-excerpt: "데모 사이트 HR erp를 시연하기 전에 정돈하자"
+excerpt: "소통하며 협업하게 하여 업무 생산성을 높여주는 HR erp 시연 시나리오"
+header:
+  overlay_image: /assets/images/오르막길.png
+  overlay_filter: rgba(255, 0, 0, 0.5)
+  caption: "Photo credit: [**jwsheen**](https://jwsheen.github.io)"
+  actions:
+    - label: "HR ERP"
+      url: "https://recruiting.bettercode.kr/talent-report/list"
 tags: 
   - CSM
+  - 서비스
 ---
 
-동료 유영모님이 [HR erp](https://recruiting.bettercode.kr)를 개발했다. 거래처와 일하다 보면 웹으로 업무를 설계하여 소통 부담을 줄이고 핵심업무에 집중하고 싶을 때가 있다. HR erp는 집중할 업무와 소통할 일의 경계를 설계하여 개발한 업무용 기본 서비스라고 보면 된다. 년초에 만날 지인들에게 시연하고 고객으로 협업할 기회(CSM)를 만들어 볼 수 있을까 하여 시연하는 시나리오를 2가지 써보려 한다.
+동료 유영모님이 [HR ERP](https://recruiting.bettercode.kr)를 개발했다. 간단히 소개하면 담당자가 웹화면에서 주요 업무를 수행하면 백엔드에서 협업 대상자인 사용자와 소통을 도와준다. 업무 알림이 카톡이나 슬랙으로 가고 의견 교환을 할 수 있다. 그 결과는 시스템에 반영되므로 담당자는 업무에 집중할 수 있다. 협업을 편하게 할 수 있고 더불어 업무 생산성을 높이는데 도움을 줄 것이다. 그래서 만나자는 지인들에게 시연하고 고객으로 협업할 기회(CSM)를 만들어 볼 요량으로 시연 시나리오 2가지를 써보려 한다.
 
 ## 시나리오 #1 시스템이 사용자와 안전하게 대화할 수 있다
 * 업무 특성에 맞게 사용자와 소통을 설계하여 반영한다
@@ -26,5 +34,4 @@ tags:
   * 자체 인증 서비스를 사용할 수 있다
   * 외부 인증 서비스와 연동할 수 있다( SSO, OAuth )
 
-## 서비스 운영을 선제적으로 처리할 수 있다
-* 로그 활용하는 수단이 기본으로 깔려 있다
+
