@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "신재웅 쓰기"
+locale                   : "ko-KR"
+title                    : "차리고 살리는 맛"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "신재웅"
-description              : "글말로 생각을 말하고 듣는다"
+description              : "글말로 내 생각을 말하다"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -56,9 +56,9 @@ comments:
 reCaptcha:
   siteKey                :
   secret                 :
-# atom_feed:
-#   path                   : # blank (default) uses feed.xml
-#   hide                   : # true, false (default)
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+  hide                   : true # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
