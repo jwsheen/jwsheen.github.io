@@ -5,8 +5,8 @@ layout: single
 excerpt: "소통하며 협업하게 하여 업무 생산성을 높여주는 HR erp 시연 시나리오"
 header:
   overlay_image: /assets/images/오르막길.png
-  overlay_filter: rgba(255, 0, 0, 0.5)
-  caption: "Photo credit: [**jwsheen**](https://jwsheen.github.io)"
+  overlay_filter: rgba(6, 28, 101, 0.53) #rgba(255, 0, 0, 0.5)
+  caption: "진리를 실천하며 빛으로 나아가자" #"Photo credit: [**jwsheen**](https://jwsheen.github.io)"
   actions:
     - label: "HR ERP"
       url: "https://recruiting.bettercode.kr/talent-report/list"
