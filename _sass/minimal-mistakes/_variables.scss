@@ -19,10 +19,10 @@ $indent-var: 1.3em !default;
 // $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* system typefaces by James 2024.01.02 */
-$serif: Georgia, Times, serif !default;
-$sans-serif: 'Nanum Gothic', -apple-system, BlinkMacSystemFont, 'Roboto', 'Segoe UI', 'Helvetica Neue',
+$serif: 'Noto Serif KR', Georgia, Times, serif !default;
+$sans-serif: 'Noto Serif KR', 'Nanum Gothic', -apple-system, BlinkMacSystemFont, 'Roboto', 'Segoe UI', 'Helvetica Neue',
   'Lucida Grande', Arial, sans-serif !default;
-$monospace: 'Nanum Gothic', Monaco, Consolas, 'Lucida Console', monospace !default;
+$monospace: 'Noto Serif KR', 'Nanum Gothic', Monaco, Consolas, 'Lucida Console', monospace !default;
 
 /* sans serif typefaces */
 $sans-serif-narrow: $sans-serif !default;
