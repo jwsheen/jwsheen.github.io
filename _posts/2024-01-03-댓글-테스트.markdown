@@ -1,5 +1,5 @@
 ---
-title: "Layout: Comments Enabled 댓글 테스트"
+title: "TEST: Comments Enabled 댓글 테스트"
 excerpt: "facebook 댓글 테스트를 하고 확인하는 방법"
 comments: true
 # categories:
