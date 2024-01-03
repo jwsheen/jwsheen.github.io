@@ -36,7 +36,7 @@ comments:
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:                # https://developers.facebook.com/docs/plugins/comments
-    appid                : 4609846799055590   # 7174279549290508 
+    appid                : 985107191953643 #(seneca) # 4609846799055590(jumysheen)   # 7174279549290508(jumysheen-blog,test)
     num_posts            : 5        # 5 (default)
     colorscheme          : "light"  # "light" (default), "dark"
   utterances:
