@@ -6,7 +6,6 @@ comments: true
 #   - Layout
 #   - Uncategorized
 tags:
-  - comments
   - test
 ---
 
