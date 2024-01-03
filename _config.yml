@@ -36,9 +36,9 @@ comments:
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:                # https://developers.facebook.com/docs/plugins/comments
-    appid                : 4609846799055590
-    num_posts            : 5 # 5 (default)
-    colorscheme          : "light" # "light" (default), "dark"
+    appid                : 7174279549290508 # 4609846799055590
+    num_posts            : 5        # 5 (default)
+    colorscheme          : "light"  # "light" (default), "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
@@ -216,10 +216,10 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:title/ #/:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
