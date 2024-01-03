@@ -4,7 +4,7 @@ title: "공부할 줄 아는가"
 layout: single
 excerpt: "외워서 주어진 문제를 푸는 일과 묻고 따져서 풀어보는 일"
 header:
-  overlay_image: /assets/images/오르막길.png
+  overlay_image: /assets/images/공부-국립국어원.png
   overlay_filter: rgba(6, 28, 101, 0.53) #rgba(255, 0, 0, 0.5)
   caption: "공부할 줄 알자" #"Photo credit: [**jwsheen**](https://jwsheen.github.io)"
   actions:
