@@ -16,7 +16,8 @@ tags:
 comments: true
 ---
 
-[첫 번째 시나리오](/_posts/2024-01-01-HR-erp-시연-시나리오-1.markdown)에 이어 두 번째 시나리오를 써 보겠다.
+[0.첫 번째 시나리오](/_posts/2024-01-01-HR-erp-시연-시나리오-1.markdown)에 이어 두 번째 시나리오를 써 보겠다.
+[1.첫 번째 시나리오]({% link _posts/2024-01-01-HR-erp-시연-시나리오-1.markdown %})
 
 ![일반업무](/assets/images/업무-부서-의사결정.png){: width='600px'}
 
