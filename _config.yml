@@ -155,6 +155,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _drafts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -295,40 +296,3 @@ defaults:
       type: tag
     values:
       author_profile: true
-
-# drafts: true  
-name: Build and Deploy
-
-on:
-  push:
-    branches:
-      - main  # 혹은 다른 브랜치로 변경
-
-jobs:
-  build-and-deploy:
-    runs-on: ubuntu-latest
-    
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - name: Setup Ruby
-        uses: actions/setup-ruby@v1
-        with:
-          ruby-version: '2.x'  # 사용하는 Ruby 버전
-
-      - name: Install Dependencies
-        run: |
-          gem install bundler
-          bundle install
-
-      - name: Build Jekyll Site
-        run: bundle exec jekyll build --future --drafts  # --drafts 옵션 추가
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          deploy_key: ${{ secrets.ACCESS_TOKEN }}  # 액세스 토큰 또는 다른 인증 정보 사용
-          publish_dir: ./_site
-          publish_branch: gh-pages  # 배포할 브랜치
-
