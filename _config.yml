@@ -296,7 +296,7 @@ defaults:
     values:
       author_profile: true
 
-# drafts: true 
+# drafts: true  
 name: Build and Deploy
 
 on:
