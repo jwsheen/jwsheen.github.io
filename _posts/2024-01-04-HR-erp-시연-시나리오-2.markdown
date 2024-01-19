@@ -1,6 +1,6 @@
 ---
-title: "HR ERP 시연 시나리오 #2"
-date: 9999-01-02
+title: "HR ERP 쓰는 시나리오 #2"
+date: 2024-01-19
 # classes: wide
 layout: single
 excerpt: "소통하며 협업하게 하여 업무 생산성을 높여주는 두 번째 시연 시나리오"
