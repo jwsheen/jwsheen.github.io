@@ -11,9 +11,9 @@ header:
   actions:
     - label: "HR ERP"
       url: "https://recruiting.bettercode.kr/talent-report/list"
-# tags: 
-#   - CSM
-#   - 서비스
+tags: 
+  - CSM
+  - 서비스
 comments: true
 ---
 
